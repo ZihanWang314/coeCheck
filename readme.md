@@ -5,7 +5,7 @@
  <a href="https://www.github.com/ZihanWang314/coe"><img src="https://img.shields.io/badge/💻_Code-EA4335?style=for-the-badge&logoColor=white" alt="Code"></a>
 </p>
 
-# NOTE: This link is a deprecated link. Please go direct to http://https://github.com/ZihanWang314/coe for the latest updates!
+# NOTE: This link is a deprecated link. Please go direct to https://github.com/ZihanWang314/coe for the latest updates!
 
 ## Introduction
 
